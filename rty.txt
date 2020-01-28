@@ -1,0 +1,22 @@
+1)config
+2)add work to the stagging area
+3)perform/add the work to local repositary
+
+
+gir init
+git config--->user-email
+	  --->user-name
+git remote add origin "github url"
+
+
+git Add -A
+git log --oneline
+
+
+
+git branch "branch name"(b1)
+git cheackout b1
+b.txt --->commit
+      --->add
+git chekout master
+git merge b1
